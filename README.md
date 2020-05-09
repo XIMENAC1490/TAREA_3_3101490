@@ -7,7 +7,7 @@
 
 **Impacto Ambiental positivo que ha dejado el COVID- 19**
 
-*** Descripción del trabajo**
+** * Descripción del trabajo**
 
 Describa de forma resumida el enfoque propuesto para el desarrollo del problema.
 Crear un boceto (mockup) donde se plantee la narrativa que se presentará al usuario e incluir cada una de las imágenes del mismo.
