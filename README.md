@@ -35,9 +35,18 @@ La pandemia del coronavirus paradójicamente le ha generado un respiro al planet
 
 * Listado detallado de las fuentes de datos seleccionadas.
 
-Capa | Descripción | Atributos| Link
+Capa | Descripción | Link
 ---|---|---
-**Estaciones Calidad del aire**| Ubicación de las estaciones de la Red de Monitoreo de Calidad del Aire de Bogotá (RMCAB) para el área urbana del Distrito Capital| Temáticamente  cuenta con el nombre de la estación de monitoreo que identifica el lugar donde se encuentra instalada, codificación, dirección, nombre de la entidad que permite la instalación de los equipos, altura de la estación snmm y altura de la estación con referencia al suelo, propósito de medición de la estación (Tráfico, fondo de la ciudad, de frontera, industrial) y si la estación está activa o inactiva |
+**Estaciones Calidad del aire**|Ubicación de las estaciones de la Red de Monitoreo de Calidad del Aire de Bogotá (RMCAB) para el área urbana del Distrito Capital, temáticamente  cuenta con el nombre de la estación de monitoreo que identifica el lugar donde se encuentra instalada, codificación, dirección, nombre de la entidad que permite la instalación de los equipos, altura de la estación snmm y altura de la estación con referencia al suelo, propósito de medición de la estación (Tráfico, fondo de la ciudad, de frontera, industrial) y si la estación está activa o inactiva| [https://www.datos.gov.co/Ambiente-y-Desarrollo-Sostenible/calidad-del-aire/7nmd-u7pq]
+**Contenerización Bogotá**|Sistema de disposición temporal de residuos para su recolección mecanizada a través del esquema de aseo del distrito; permite mejorar la presentación de los residuos, evitar la acumulación de estos y promueve el reciclaje. También evita que se formen puntos críticos que afectan y deterioran la armonía del espacio público urbano.| [https://datosabiertos.bogota.gov.co/dataset/contenerizacion-bogota-d-c]
+**Caneca Bogotá**| Elemento dispositivo de aseo de alta resistencia al vandalismo para el almacenamiento de residuos producidos por los peatones o transeuntes en el espacio público. Su extensión geográfica es la zona urbana del Distrito Capital.| [https://datosabiertos.bogota.gov.co/dataset/caneca-bogota-d-c]
+**Localidad Bogotá**| División política, administrativa y territorial municipal, con competencias claras y criterios de financiación y aplicación de recursos, creada por el Concejo Municipal a iniciativa del alcalde respectivo, con el fin de atender de manera más eficaz las necesidades de esa porción del territorio.|[https://datosabiertos.bogota.gov.co/dataset/localidad-bogota-d-c]
+
+
+
+
+
+**Estaciones Calidad del aire**| Ubicación de las estaciones de la Red de Monitoreo de Calidad del Aire de Bogotá (RMCAB) para el área urbana del Distrito Capital, temáticamente  cuenta con el nombre de la estación de monitoreo que identifica el lugar donde se encuentra instalada, codificación, dirección, nombre de la entidad que permite la instalación de los equipos, altura de la estación snmm y altura de la estación con referencia al suelo, propósito de medición de la estación (Tráfico, fondo de la ciudad, de frontera, industrial) y si la estación está activa o inactiva |
 https://www.datos.gov.co/Ambiente-y-Desarrollo-Sostenible/calidad-del-aire/7nmd-u7pq.
 **Localidad. Bogotá D.C** | División política, administrativa y territorial municipal, con competencias claras y criterios de financiación y aplicación de recursos, creada por el Concejo Municipal a iniciativa del alcalde respectivo, con el fin de atender de manera más eficaz las necesidades de esa porción del territorio.| Cuenta con el nombre de cada localidad, localización y área | 
 https://datosabiertos.bogota.gov.co/dataset/localidad-bogota-d-c
