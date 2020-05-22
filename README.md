@@ -53,4 +53,4 @@ https://datosabiertos.bogota.gov.co/dataset/temperatura-media-superficial-bogota
 
 El procesamiento de la información empieza realizando la tabulación de los datos de concentración material particulado inferior a 2.5 micrómetros (PM 2.5) y material particulado inferior a 10 micrómetros  PM 10 que se obtuvieron filtrando aquellos que corresponden a los meses de Marzo, Abril y Mayo de los año 2019 y 2020, generando así un archivo de excel el cual contiene las coordenadas geográficas de las estaciones de la Red de Monitoreo de Calidad del aire ubicadas en  la ciudad de Bogotá.
 
-![Región_Andina]( 1.png "Región_Andina")
+![Región_Andina]( 1.PNG "Región_Andina")
