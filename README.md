@@ -58,4 +58,4 @@ El procesamiento de la información empieza realizando la tabulación de los dat
 Para realizar la conversión de las coordenadas  se usó el portal de herramientas Candensys, donde se llevan las coordenadas de latitud y longitud 
 
 ![Región_Andina]( 2.PNG "Región_Andina")
-![Región_Andina]( 3.PNG "Región_Andina")
+![Región_Andina]( 3.PNG.jpg "Región_Andina")
