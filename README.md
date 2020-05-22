@@ -30,6 +30,8 @@ La pandemia del coronavirus paradójicamente le ha generado un respiro al planet
 
 * Describa de forma resumida el enfoque propuesto para el desarrollo del problema.
 
+Para el desarrollo del problema, se cuentan con 1 capa de puntos que son las estaciones de calidad del aire, 
+
 
 * Crear un boceto (mockup) donde se plantee la narrativa que se presentará al usuario e incluir cada una de las imágenes del mismo.
 
@@ -43,6 +45,12 @@ Capa | Descripción | Link
 **Concentración de Material Particulado Inferior a 2.5 Micrómetros [PM 2.5] Promedio Mensual por Estación**| Contiene la concentración de Material Particulado inferior a 2.5 micras (PM2.5) anual por estación (Kennedy - Ken, Carvajal - Carv, Centro de Alto rendimiento - CdAR, Usaquén - Usaq, Fontibón - Fon, Puente Aranda - Puen, San Cristóbal - SanC, Tunal - Tunal, Guaymaral - Gua, Las Ferias - LFer, MinAmbiente - MinA, Suba - Suba) de la Red de Monitoreo de Calidad del Aire de Bogotá RMCAB.|[https://datosabiertos.bogota.gov.co/dataset/concentracion-de-material-particulado-inferior-a-2-5-micrometros-pm2-5-promedio-rmcab]
 **Concentración de Material Particulado Inferior a 10 Micrómetros [PM 10] Promedio Mensual por Estación** | Contiene la concentraación de Material Particulado inferior a 10 micras (PM 10) anual por estación (Kennedy - Ken, Carvajal - Carv, Centro de Alto rendimiento - CdAR, Usaquén - Usaq, Fontibón - Fon, Puente Aranda - Puen, San Cristóbal - SanC, Tunal - Tunal, Guaymaral - Gua, Las Ferias - LFer, MinAmbiente - MinA, Suba - Suba) de la Red de Monitoreo de Calidad del Aire de Bogotá RMCAB. | https://datosabiertos.bogota.gov.co/dataset/concentracion-de-material-particulado-inferior-a-10-micrometros-pm10-promedio-mensual-por-estacion
 
-
-
 https://datosabiertos.bogota.gov.co/dataset/temperatura-media-superficial-bogota-d-c
+
+**2.Procesamiento de datos** 
+
+ * Descripción detallada del procesamiento realizado a los datos (algoritmos, herramientas utilizadas, modelos, etc)
+
+El procesamiento de la información empieza realizando la tabulación de los datos de concentración material particulado inferior a 2.5 micrómetros (PM 2.5) y material particulado inferior a 10 micrómetros  PM 10 que se obtuvieron filtrando aquellos que corresponden a los meses de Marzo, Abril y Mayo de los año 2019 y 2020, generando así un archivo de excel el cual contiene las coordenadas geográficas de las estaciones de la Red de Monitoreo de Calidad del aire ubicadas en  la ciudad de Bogotá.
+
+![Región_Andina]( 1.png "Región_Andina")
