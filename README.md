@@ -111,13 +111,19 @@ Para publicar en CARTO primero se cargó el conjunto de datos a utilizar > *New 
 
 ![Región_Andina]( 8.jpg "Región_Andina")
 
-> *Upload* se busca el shapefile que se va a subir a la plataforma 
+> En la pestaña *Upload* se busca el shapefile que se va a subir a la plataforma 
 
 ![Región_Andina]( 9.JPG "Región_Andina")
 
 Se puede observar la vista de los atributos del shape que se acaba de cargar
 
 ![Región_Andina]( 10.jpg "Región_Andina")
+
+Podemos hacer el preview de las geometrías y seguidamente crear un mapa 
+
+![Región_Andina]( 11.jpg "Región_Andina")
+
+
 
 
 
