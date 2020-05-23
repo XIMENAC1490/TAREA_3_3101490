@@ -53,7 +53,7 @@ https://datosabiertos.bogota.gov.co/dataset/temperatura-media-superficial-bogota
 
 El procesamiento de la información empieza realizando la proyección a las capas que no cuentan con el sistema de referencia Magna Colombia Bogotá, a continuación se describe el proceso realizado a los datos para poder ser utilizados y de esta manera solucionar el problema planteado:
 
-*** Capa Localidades Bogotá** 
+***Capa Localidades Bogotá** 
 
 ![Región_Andina]( 4.jpg "Región_Andina")
 
@@ -63,7 +63,7 @@ El shapefile de localidades para la ciudad de Bogotá, tiene como sistema de ref
 
 Se realizó el mismo procedimiento para el shape Estaciones de calidad del aire. 
 
-Seguido se realiza la tabulación de los datos de concentración material particulado inferior a 2.5 micrómetros (PM 2.5) y material particulado inferior a 10 micrómetros  PM 10 que se obtuvieron filtrando aquellos que corresponden a los meses de Marzo, Abril y Mayo de los año 2019 y 2020, generando así un archivo de excel el cual contiene las coordenadas geográficas de las estaciones de la Red de Monitoreo de Calidad del aire ubicadas en  la ciudad de Bogotá.
+Seguido se realiza la tabulación de los datos de concentración material particulado inferior a 2.5 micrómetros (PM 2.5) y material particulado inferior a 10 micrómetros  (PM 10) que se obtuvieron filtrando aquellos que corresponden a los meses de Marzo, Abril y Mayo de los año 2019 y 2020, generando así un archivo de excel el cual contiene las coordenadas geográficas de las estaciones de la Red de Monitoreo de Calidad del aire ubicadas en  la ciudad de Bogotá.
 
 ![Región_Andina]( 1.PNG "Región_Andina")
 
@@ -75,6 +75,8 @@ Las coordenadas son transformadas y posteriormnete reemplazadas en el archivo de
 
 ![Región_Andina]( 3.PNG.jpg "Región_Andina")
 
-A continuación, se espacilizan los puntos correspondientes a la ubicación de cada estación.
+A continuación, se espacilizan los puntos correspondientes a la ubicación de cada estación de calidad del aire. 
 
 ![Región_Andina]( 6.jpg "Región_Andina")
+
+![Región_Andina]( 7.jpg "Región_Andina")
