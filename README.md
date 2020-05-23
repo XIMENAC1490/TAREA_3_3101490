@@ -80,3 +80,5 @@ A continuación, se espacilizan los puntos correspondientes a la ubicación de c
 ![Región_Andina]( 6.jpg "Región_Andina")
 
 ![Región_Andina]( 7.jpg "Región_Andina")
+
+Posteriormente, con el propósito de representar gráficamente 
