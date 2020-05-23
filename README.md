@@ -95,9 +95,9 @@ Bogotá durante el período de confinamiento y el año anterior se realiza una i
   * Datos:
 
 Capa | Atributos Principales 
----|---|---
+---|---
 **Estaciones Red Calidad aire** | xxxxxxx QUE TIPO DE VARIABLE ES ????
-**Localidades** | xxxxx
+**Localidades**: Categórica | xxxxx
 **Concentración de Ozono Promedio Mensual** | xxxxx
 
 DEBO REALIZAR EL MOCKUP- DONDE SE INTERACTUE CON UN MAPA Y LAS VARIABLES (CATEGORICAS) 
@@ -123,12 +123,19 @@ Podemos hacer el preview de las geometrías y seguidamente crear un mapa
 
 ![Región_Andina]( 11.jpg "Región_Andina")
 
+Donde se puede cambiar el estilo del Basemap, aplicar simbología al mapa, crear leyenda y ventanas emergentes, para cada una de las mapas que se han cargado. 
 
+![Región_Andina]( 12.jpg "Región_Andina")
 
+En las pestaña Legend se insertó la leyenda de tipo categorico para la capa de localidades 
+
+![Región_Andina]( 13.jpg "Región_Andina")
 
 
 
 * Describir método utilizado para clasificar los datos.
+
+
 
 * Describir el criterio para la selección de los colores a utilizar en la simbología
 
