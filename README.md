@@ -92,11 +92,35 @@ Bogotá durante el período de confinamiento y el año anterior se realiza una i
 
 * Cree un tablero de control utilizando Carto (https://carto.com/) buscando soportar la historia a contar dentro de la narrativa propuesta.
 
+  * Datos:
+
+Capa | Atributos Principales 
+---|---|---
+**Estaciones Red Calidad aire** | xxxxxxx QUE TIPO DE VARIABLE ES ????
+**Localidades** | xxxxx
+**Concentración de Ozono Promedio Mensual** | xxxxx
+
+DEBO REALIZAR EL MOCKUP- DONDE SE INTERACTUE CON UN MAPA Y LAS VARIABLES (CATEGORICAS) 
+
+
+
+
 * Describir de forma detallada el procedimiento utilizado para publicar la aplicación.
 
-Para publicar en CARTO primero se cargó el conjunto de datos a utilizar
+Para publicar en CARTO primero se cargó el conjunto de datos a utilizar > *New Dataset* 
 
 ![Región_Andina]( 8.jpg "Región_Andina")
+
+> *Upload* se busca el shapefile que se va a subir a la plataforma 
+
+![Región_Andina]( 9.JPG "Región_Andina")
+
+Se puede observar la vista de los atributos del shape que se acaba de cargar
+
+![Región_Andina]( 10.jpg "Región_Andina")
+
+
+
 
 * Describir método utilizado para clasificar los datos.
 
