@@ -81,4 +81,29 @@ A continuación, se espacilizan los puntos correspondientes a la ubicación de c
 
 ![Región_Andina]( 7.jpg "Región_Andina")
 
-Posteriormente, con el propósito de representar gráficamente 
+Posteriormente, con el propósito de representar gráficamente la dispersión de contaminantes en la ciudad de 
+Bogotá durante el período de confinamiento y el año anterior se realiza una interpolación de las capas que contienen las cifras mensuales en μg/m3 de la concentración de contaminantes significativos como lo son Material Particulado Menor a 2.5 micras (PM2.5), el cual esta constituido por particulas muy pequeñas, producidas principalmente por los vehiculos pesados que utilizan diesel como combustible, y  que pueden transportar material muy peligroso para el cuerpo como metales pesados, compuestos orgánicos y virus.
+
+
+
+
+
+**3.CARTO**
+
+* Cree un tablero de control utilizando Carto (https://carto.com/) buscando soportar la historia a contar dentro de la narrativa propuesta.
+
+* Describir de forma detallada el procedimiento utilizado para publicar la aplicación.
+
+Para publicar en CARTO primero se cargó el conjunto de datos a utilizar
+
+![Región_Andina]( 8.jpg "Región_Andina")
+
+* Describir método utilizado para clasificar los datos.
+
+* Describir el criterio para la selección de los colores a utilizar en la simbología
+
+* Incluir url en línea al tablero de control publicado. Ejemplo: https://gkudos.carto.com/u/kudosg/builder/501b7abf-3809-41e7-a71b-39223fb3dbbf/embed
+
+
+
+
