@@ -149,6 +149,14 @@ A continuación se agragaron los controles para el tablero de control interactiv
 
 ![Región_Andina]( 33.jpg "Región_Andina")
 
+Despúes se cargaron las capas de estaciones tipo punto para el mes de Abril para los años 2019 y 2020 las cuales contienen los atributos de material particulado menor 2.5 y 10 micras, se realizó el mismo procedimiento de la capa anterior. 
+
+![Región_Andina]( 34.jpg "Región_Andina")
+
+
+
+
+
 * Describir método utilizado para clasificar los datos.
 
 
