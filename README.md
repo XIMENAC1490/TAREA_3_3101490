@@ -153,7 +153,11 @@ Despúes se cargaron las capas de estaciones tipo punto para el mes de Abril par
 
 ![Región_Andina]( 34.jpg "Región_Andina")
 
+SE debe cambiar la privacidad para que quede publico con link y seguido se da clic en *Publish* 
 
+![Región_Andina]( 35.jpg "Región_Andina")
+
+![Región_Andina]( 36.jpg "Región_Andina")
 
 
 
