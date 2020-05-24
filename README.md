@@ -189,6 +189,27 @@ El criterio que usado para seleccionar la simbología fue categórico puesto que
 
 https://u3101490.carto.com/builder/5087436a-f44c-48de-a30d-5bbb37aa29a8/embed
 
+**4. Geonode**
 
+* Cree una aplicación utilizando el servidor Geonode (http://geonode.org/) disponible para la clase buscando soportar la historia a contar dentro de la narrativa propuesta.
+Nota: Los elementos mostrados en aa aplicación deben ser diferentes a los creados con Carto (No es repetir el mismo mapa o tablero creado en el punto 3)
+* Para la creación de objetos en ggeonode favor utilizar el prefijo asignado para la clase. Ejemplo: jc_departamentos.
+* Cargar los datos a utilizar en Geonode
+
+Para cargar los datos primero debí registarrame como usuario, seguidamente se Cargó la capa en formato ZIP, y  se procede a crear el  mapa, antes  se crea el metadato
+
+![Región_Andina]( 37.jpg "Región_Andina")
+
+![Región_Andina]( 38.jpg "Región_Andina")
+
+![Región_Andina]( 39.jpg "Región_Andina")
+
+Se asigna una nueva simbología mediante el software Qgis 
+
+* Describir de forma detallada el procedimiento utilizado para publicar la aplicación.
+* Tanto para los datos como las aplicaciones creadas en geonode debe diligenciar el metadato básico de los mismos (Campos obligatorios).
+* Describir método utilizado para clasificar los datos en los mapas temáticos.
+* Describir el criterio para la selección de los colores a utilizar en la simbología
+* Incluir url público en línea al mapa publicado. Ejemplo: http://34.83.176.208/maps/7/view
 
 
