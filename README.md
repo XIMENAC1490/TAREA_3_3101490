@@ -218,7 +218,7 @@ https://slides.com/ximenacamachocubillos/i/
 
 **6. Conclusiones**
 
-Publicar un video en Loom 
+Publicar un video en Loom: 
 
 https://www.loom.com/share/3d4df5e25db947d8a428572c5a963645
 
