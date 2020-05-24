@@ -26,7 +26,13 @@ https://github.com/dersteppenwolf/cartografia_web/issues con lo siguiente:
 
 * Descripción del trabajo
 
-La pandemia del coronavirus paradójicamente le ha generado un respiro al planeta. La reducción del número y la frecuencia de vuelos entre distintos destinos, así como el tráfico vehicular interno y el encierro obligado en el que se encuentran miles de personas en varias ciudades del mundo, han permitido que se reduza el nivel de emisiones de gases de efecto invernadero. 
+La pandemia del coronavirus paradójicamente le ha generado un respiro al planeta. La reducción del número y la frecuencia de vuelos entre distintos destinos, así como el tráfico vehicular interno y el encierro obligado en el que se encuentran miles de personas en varias ciudades del mundo, han permitido que se reduza el nivel de emisiones de gases de efecto invernadero. El objetivo es analizar los contaminantes como material particulado  de 2.5 y 10 (MP),  para determinar su concentración mediante interpolación de Kriging realizando un comparativo entre el año 2019 y 2020 de los meses de Marzo, abril y Mayo que es el período que se ha presentado el confinamiento por el Covid 19. 
+
+**LEGISLACIÓN VIGENTE**
+
+El ministerio de Ambiente y Desarrollo sostenible a formulado la resolución 610 de 2010 como norma de calidad del aire o nivel de inmisión en todo el territorio nacional, con la que se establece los niveles de contaminación permisibles respecto a los contaminantes atmosfericos. En la tabla se describen los limites de contaminación permisibles para los contaminantes objeto de estudio en tiempos de exposición mensual. 
+
+![Región_Andina]( 90.jpg "Región_Andina")
 
 * Describa de forma resumida el enfoque propuesto para el desarrollo del problema.
 
