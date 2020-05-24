@@ -139,6 +139,8 @@ En la pestaña Pop-Up se habilitó la ventana emergente y se seleccionan los atr
 
 ![Región_Andina]( 16.jpg "Región_Andina")
 
+![Región_Andina]( 17.jpg "Región_Andina")
+
 
 * Describir método utilizado para clasificar los datos.
 
