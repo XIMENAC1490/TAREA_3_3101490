@@ -82,9 +82,20 @@ A continuación, se espacilizan los puntos correspondientes a la ubicación de c
 ![Región_Andina]( 7.jpg "Región_Andina")
 
 Posteriormente, con el propósito de representar gráficamente la dispersión de contaminantes en la ciudad de 
-Bogotá durante el período de confinamiento y el año anterior se realiza una interpolación de las capas que contienen las cifras mensuales en μg/m3 de la concentración de contaminantes significativos como lo son Material Particulado Menor a 2.5 micras (PM2.5), el cual esta constituido por particulas muy pequeñas, producidas principalmente por los vehiculos pesados que utilizan diesel como combustible, y  que pueden transportar material muy peligroso para el cuerpo como metales pesados, compuestos orgánicos y virus.
+Bogotá durante el período de confinamiento y el año anterior se realiza una interpolación por Kriging de las capas que contienen las cifras mensuales en μg/m3 de la concentración de contaminantes significativos como lo son Material Particulado Menor a 2.5 micras (PM2.5), el cual esta constituido por particulas muy pequeñas, producidas principalmente por los vehiculos pesados que utilizan diesel como combustible, y  que pueden transportar material muy peligroso para el cuerpo como metales pesados, compuestos orgánicos y virus.
 
+![Región_Andina]( 19.jpg "Región_Andina")
 
+![Región_Andina]( 20.jpg "Región_Andina")
+
+![Región_Andina]( 21.jpg "Región_Andina")
+
+![Región_Andina]( 22.jpg "Región_Andina")
+
+Año | Marzo | Abril | Mayo 
+---|---|---|---
+2019 | ![Región_Andina]( 29_marzo_2019.jpg "Región_Andina")|![Región_Andina]( 30_abril_2019.jpg "Región_Andina")|![Región_Andina]( 31_mayo_2019.jpg "Región_Andina")
+2020 | ![Región_Andina]( 26_marzo_2020.jpg "Región_Andina")| ![Región_Andina]( 27_abril_2020.jpg "Región_Andina")| ![Región_Andina]( 28_mayo_2020.jpg "Región_Andina")
 
 
 
@@ -160,16 +171,17 @@ SE debe cambiar la privacidad para que quede publico con link y seguido se da cl
 ![Región_Andina]( 36.jpg "Región_Andina")
 
 
-
 * Describir método utilizado para clasificar los datos.
 
-
+Para la clasificación de los datos de tipo polígono se selccionaron los datos por medio de categoría para ser simbolizado por el atributo de nombre de la localidad y para las capas de tipo punto se uso el valor de material particulado menor a 10 micras y se seleccionó por cuantiles.  
 
 * Describir el criterio para la selección de los colores a utilizar en la simbología
 
 El criterio que usado para seleccionar la simbología fue categórico puesto que el atributo seleccionado (locnombre) describe un conjunto de entidades con el mismo valor de atributo. 
 
-* Incluir url en línea al tablero de control publicado. Ejemplo: https://gkudos.carto.com/u/kudosg/builder/501b7abf-3809-41e7-a71b-39223fb3dbbf/embed
+* Incluir url en línea al tablero de control publicado. 
+
+https://u3101490.carto.com/builder/5087436a-f44c-48de-a30d-5bbb37aa29a8/embed
 
 
 
