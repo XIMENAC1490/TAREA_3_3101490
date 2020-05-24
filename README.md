@@ -37,15 +37,13 @@ El ministerio de Ambiente y Desarrollo sostenible a formulado la resolución 610
 ![Región_Andina]( 40.jpg "Región_Andina")
 
 
-
-* Describa de forma resumida el enfoque propuesto para el desarrollo del problema.
-
-Para el desarrollo del problema, se cuentan con 1 capa de puntos que son las estaciones de calidad del aire, 
-
-
 * Mockup
 
 https://balsamiq.cloud/soy4bzf/p9j2tkn
+
+![Región_Andina]( 42.jpg "Región_Andina")
+
+![Región_Andina]( 41.jpg "Región_Andina")
 
 * Listado detallado de las fuentes de datos seleccionadas.
 
