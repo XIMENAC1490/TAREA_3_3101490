@@ -135,6 +135,9 @@ Seguido en la pestaña Legend se inserta la leyenda de tipo categórico para la 
 
 ![Región_Andina]( 15.jpg "Región_Andina")
 
+En la pestaña Pop-Up se habilitó la ventana emergente y se seleccionan los atributos de la capa que se quieren mostrar
+
+![Región_Andina]( 16.jpg "Región_Andina")
 
 
 * Describir método utilizado para clasificar los datos.
