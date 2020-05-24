@@ -141,6 +141,9 @@ En la pestaña Pop-Up se habilitó la ventana emergente y se seleccionan los atr
 
 ![Región_Andina]( 17.jpg "Región_Andina")
 
+A continuación se agragaron los controles para el tablero de control interactivo 
+
+![Región_Andina]( 18.jpg "Región_Andina")
 
 * Describir método utilizado para clasificar los datos.
 
