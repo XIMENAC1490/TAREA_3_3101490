@@ -34,6 +34,8 @@ El ministerio de Ambiente y Desarrollo sostenible a formulado la resolución 610
 
 ![Región_Andina]( 90.jpg "Región_Andina")
 
+![Región_Andina]( 40.jpg "Región_Andina")
+
 * Describa de forma resumida el enfoque propuesto para el desarrollo del problema.
 
 Para el desarrollo del problema, se cuentan con 1 capa de puntos que son las estaciones de calidad del aire, 
@@ -206,10 +208,6 @@ Para cargar los datos primero debí registarrame como usuario, seguidamente se C
 
 Se asigna una nueva simbología mediante el software Qgis 
 
-* Describir de forma detallada el procedimiento utilizado para publicar la aplicación.
-* Tanto para los datos como las aplicaciones creadas en geonode debe diligenciar el metadato básico de los mismos (Campos obligatorios).
-* Describir método utilizado para clasificar los datos en los mapas temáticos.
-* Describir el criterio para la selección de los colores a utilizar en la simbología
-* Incluir url público en línea al mapa publicado. Ejemplo: http://34.83.176.208/maps/7/view
+
 
 
