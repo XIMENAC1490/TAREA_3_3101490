@@ -96,13 +96,11 @@ Bogotá durante el período de confinamiento y el año anterior se realiza una i
 
 Capa | Atributos Principales 
 ---|---
-**Estaciones Red Calidad aire** | xxxxxxx QUE TIPO DE VARIABLE ES ????
-**Localidades**: Categórica | xxxxx
-**Concentración de Ozono Promedio Mensual** | xxxxx
+**Estaciones Red Calidad aire**: Categórica | Nombre de la estación, Ubicación
+**Localidades**: Categórica | Nombre de la localidad 
+**Concentración de Ozono Promedio Mensual**: Geometría tipo poligono | Promedio concentración de ozono 
 
 DEBO REALIZAR EL MOCKUP- DONDE SE INTERACTUE CON UN MAPA Y LAS VARIABLES (CATEGORICAS) 
-
-
 
 
 * Describir de forma detallada el procedimiento utilizado para publicar la aplicación.
@@ -123,13 +121,19 @@ Podemos hacer el preview de las geometrías y seguidamente crear un mapa
 
 ![Región_Andina]( 11.jpg "Región_Andina")
 
-Donde se puede cambiar el estilo del Basemap, aplicar simbología al mapa, crear leyenda y ventanas emergentes, para cada una de las mapas que se han cargado. 
+Donde se puede cambiar el estilo del Basemap, aplicar simbología al mapa, crear leyenda y ventanas emergentes, para cada una de las capas que se han cargado. 
 
 ![Región_Andina]( 12.jpg "Región_Andina")
 
-En las pestaña Legend se insertó la leyenda de tipo categorico para la capa de localidades 
+Se selecciona la capa con la cual se va a trabajar, en la pestaña *Style* > *By value* se selecciona el atributo que va a ser representado por medio de la simbología, en este caso el nombre de la localidad (locnombre)
 
 ![Región_Andina]( 13.jpg "Región_Andina")
+
+Seguido en la pestaña Legend se inserta la leyenda de tipo categórico para la capa de localidades 
+
+![Región_Andina]( 14.jpg "Región_Andina")
+
+![Región_Andina]( 15.jpg "Región_Andina")
 
 
 
@@ -138,6 +142,8 @@ En las pestaña Legend se insertó la leyenda de tipo categorico para la capa de
 
 
 * Describir el criterio para la selección de los colores a utilizar en la simbología
+
+El criterio que usado para seleccionar la simbología fue categórico puesto que el atributo seleccionado (locnombre) describe un conjunto de entidades con el mismo valor de atributo. 
 
 * Incluir url en línea al tablero de control publicado. Ejemplo: https://gkudos.carto.com/u/kudosg/builder/501b7abf-3809-41e7-a71b-39223fb3dbbf/embed
 
