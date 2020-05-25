@@ -200,15 +200,34 @@ Nota: Los elementos mostrados en aa aplicación deben ser diferentes a los cread
 * Para la creación de objetos en ggeonode favor utilizar el prefijo asignado para la clase. Ejemplo: jc_departamentos.
 * Cargar los datos a utilizar en Geonode
 
-Para cargar los datos primero debí registarrame como usuario, seguidamente se Cargó la capa en formato ZIP, y  se procede a crear el  mapa, antes  se crea el metadato
+Para cargar los datos primero debí registarrame como usuario, seguidamente se Cargó la capa en formato ZIP, y  se procede a crear el  mapa
 
-![Región_Andina]( 37.jpg "Región_Andina")
+![Región_Andina]( 37.JPG "Región_Andina")
 
-![Región_Andina]( 38.jpg "Región_Andina")
+Antes  se puede editar el  metadato de la capa 
+ 
+![Región_Andina]( 39.JPG "Región_Andina")
 
-![Región_Andina]( 39.jpg "Región_Andina")
+![Región_Andina]( 43.JPG "Región_Andina")
+
+En la pestaña *Layer Info* podemos ver la previsualización de la capa que acabamos de cargar, también se pueden ver los atributos que tiene la capa, muestra el estilo y una leyenda básica. 
+
+![Región_Andina]( 44.JPG "Región_Andina")
+
+Se pueden crear nuevos estilos de simbología ene ste caso será *SLD*, lo creá automáticamente
+
+![Región_Andina]( 45.jpg "Región_Andina")
+
+A continuación se añade la plantilla seleccionada a la lista de estilos y se guarda 
+
+![Región_Andina]( 46.jpg "Región_Andina")
+
+
+
 
 Se asigna una nueva simbología mediante el software Qgis 
+
+
 
 **5. Publicar la historia**
 
